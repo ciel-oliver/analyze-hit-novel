@@ -81,4 +81,4 @@ Copy-Item -Recurse -Force ".\analyze-hit-novel\skill\analyze-hit-novel" "$env:CO
 
 本项目只展示分析方法和派生报告，不提供小说原文。作品名称及相关内容版权归原作者和版权方所有。
 
-详细设计见 [技术路线文档](./TECHNICAL_ROADMAP.md)。
+
