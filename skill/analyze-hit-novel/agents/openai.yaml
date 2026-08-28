@@ -1,0 +1,4 @@
+interface:
+  display_name: "爆款小说拆解 Agent"
+  short_description: "按统一模板拆解人物、冲突、双时间线、章节钩子与爆款机制"
+  default_prompt: "使用 $analyze-hit-novel 分析这部小说，输出人物关系、双时间线、节奏曲线和可迁移创作规律。"

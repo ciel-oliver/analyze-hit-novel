@@ -1,0 +1,24 @@
+# Copyrighted source texts and local inputs
+raw/
+sources/
+**/原文/
+*.epub
+*.mobi
+
+# Local caches and generated temporary files
+.cache/
+tmp/
+*.log
+__pycache__/
+*.py[cod]
+
+# Secrets and local settings
+.env
+.env.*
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
